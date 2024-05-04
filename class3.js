@@ -86,3 +86,52 @@
 // git branch -M main
 // git remote add origin https://github.com/PreetiDiwakarGitHub/jsmathod.git
 // git push -u origin main
+
+
+
+
+
+// let arr = ["riya","priya","preeti","priyanka","punam","preeti"];
+// console.log(arr.lastIndexOf("preeti"));
+
+
+// let arr= [NaN];
+// console.log(arr.indexOf(NaN));
+// console.log(arr.includes(NaN));
+
+
+// let arr= [1,2,3,4,5];
+// console.log(arr.includes(1,3));
+
+
+// let arr= [
+//     {name: "Riya",age:20},
+//     {name: "p",age:20},
+//     {name: "q",age:40},
+//     {name: "r",age:20}
+// ]
+// let user = arr.find(element => element.age === 40);
+// console.log(user.name);
+
+
+
+// let arr= [
+//     {name: "Riya",age:20},
+//     {name: "p",age:20},
+//     {name: "q",age:40},
+//     {name: "r",age:20}
+// ]
+// let index = arr.findIndex(element) => element.name === p);
+// console.log(index);
+
+// let arr = ["riya","priya","preeti","priyanka","punam","preeti"];
+// console.log(arr.join("-"));
+
+
+
+
+let arr = ["Preeti","Raj","Khushboo"];
+console.log(arr.sort());
+
+
+

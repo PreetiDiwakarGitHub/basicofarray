@@ -306,3 +306,6 @@
 // git branch -M main
 // git remote add origin https://github.com/PreetiDiwakarGitHub/loopquestion.git
 // git push -u origin main
+
+
+console.log(10+20+"23");
